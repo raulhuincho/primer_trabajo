@@ -213,7 +213,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<img src="images/ab.png" alt=" " class="img-responsive">
 					</div>
 					<div class="col-md-6 banner_bottom_left">
-						<h4>Working to build a better web design</h4>
+						<h4>Trabajamos arduamente para implemetar un Servidor Heroku con Git y Laravel</h4>
 						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
 							pulvinar neque pharetra ac.</p>
 						<p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
