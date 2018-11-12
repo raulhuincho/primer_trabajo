@@ -49,29 +49,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <span class="icon-bar"></span>
           </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc">For your Business</span></a></h1>
+						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Municipalidad <span class="desc">Distrital de Chilca</span></a></h1>
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
 					<div class="nav_right_top">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a class="request" href="contact.html">Send Request</a></li>
+							<li><a class="request" href="contact.html">Enviar Requisitos</a></li>
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
+							<li class="active"><a href="web/index.html">Inicio</a></li>
+							<li><a href="about.html">Más</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="contact.html">Contact</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="portfolio.html">Projects</a></li>
-									<li><a href="404.html">Services</a></li>
-
-
-								</ul>
-							</li>
+							<li><a href="contact.html">Contactos</a></li>
+							<li><a href="portfolio.html">Proyectos</a></li>
 						</ul>
 					</div>
 				</div>
