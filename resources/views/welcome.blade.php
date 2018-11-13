@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
-					<div class="nav_right_top">
+					<div class="nav_right_top">	
 						<ul class="nav navbar-nav navbar-right">
 							<li><a class="request" href="contact.html">Enviar Requisitos</a></li>
 
@@ -67,7 +67,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</ul>
 					</div>
 				</div>
-				<!--/.nav-collapse -->
+				
 			</div>
 		</nav>
 	</div>
@@ -115,14 +115,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3>Municipalidad Distrital de Huancayo</h3>
+						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
-							</div>
-							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -132,14 +129,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3>Parque de lo Heroes</h3>
+						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
-							</div>
-							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -149,14 +143,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3>Parque abel Martinez</h3>
+						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
-							</div>
-							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -168,14 +159,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					<div class="carousel-caption">
 
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3>Cuarte 9 de Diciembre</h3>
+						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
-							</div>
-							<div class="bnr-button">
-								<a href="#portfolio" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -195,109 +183,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	<!--//banner -->
 	<!--/ab-->
-	<div class="banner_bottom">
-		<div class="container">
-			<h3 class="tittle-w3ls">Nosotros</h3>
-			<div class="inner_sec_info_wthree_agile">
-				<div class="help_full">
-
-					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/ab.png" alt=" " class="img-responsive">
-					</div>
-					<div class="col-md-6 banner_bottom_left">
-						<h4>Trabajamos arduamente para implemetar un Servidor Heroku con Git y Laravel</h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
-						<p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
-						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<div class="news-main">
-				<div class="col-md-4 banner_bottom_left">
-					<div class="banner_bottom_pos">
-						<div class="banner_bottom_pos_grid">
-							<div class="col-xs-3 banner_bottom_grid_left">
-								<div class="banner_bottom_grid_left_grid">
-									<span class="fa fa-laptop" aria-hidden="true"></span>
-								</div>
-							</div>
-							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Digital Solutions</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 banner_bottom_left">
-					<div class="banner_bottom_pos">
-						<div class="banner_bottom_pos_grid">
-							<div class="col-xs-3 banner_bottom_grid_left">
-								<div class="banner_bottom_grid_left_grid">
-									<span class="fa fa-pencil-square-o" aria-hidden="true"></span>
-								</div>
-							</div>
-							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Live Website Builder</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 banner_bottom_left">
-					<div class="banner_bottom_pos">
-						<div class="banner_bottom_pos_grid">
-							<div class="col-xs-3 banner_bottom_grid_left">
-								<div class="banner_bottom_grid_left_grid">
-									<span class="fa fa-newspaper-o" aria-hidden="true"></span>
-								</div>
-							</div>
-							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Creative Strategy</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
+	
 	<!--//ab-->
 	<!--/what-->
 	<div class="works">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">What we do</h3>
+			<h3 class="tittle-w3ls cen">Dime lo que piensas</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="ser-first">
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-shield" aria-hidden="true"></span>
-						<h3>Unique Design</h3>
+						<h3>Diseño Unico</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-pencil" aria-hidden="true"></span>
-						<h3>Different Layout</h3>
+						<h3>Diferente posicion</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-star" aria-hidden="true"></span>
-						<h3>Portfolio Styles</h3>
+						<h3>Estilos de portafolio</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-thumbs-up" aria-hidden="true"></span>
-						<h3>User Experience</h3>
+						<h3>Experiencia de Usuarios</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="clearfix"></div>
@@ -310,36 +221,34 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/banner_bottom-->
 	<div class="banner_bottom">
 		<div class="banner_bottom_in">
-			<h3 class="tittle-w3ls we">We provide high quality and cost effective offshore web development services.</h3>
+			<h3 class="tittle-w3ls we">Donde nosotros prevenimos y los servicios que ejercimos durante todo el tiempo</h3>
 
 			<p>Lorem ipsum dolor sit amet, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 				nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-
-			<img src="images/banner_mid.jpg" class="img-responsive" alt="">
+			<img src="images/minu-Chilca.jpg" class="img-responsive" alt="">
 		</div>
 	</div>
 	<!--//banner_bottom-->
 	<!--/projects-->
 	<div class="banner_bottom proj">
 		<div class="wrap_view">
-			<h3 class="tittle-w3ls">Projects</h3>
+			<h3 class="tittle-w3ls">Proyectos</h3>
 			<div class="inner_sec">
 				<ul class="portfolio-categ filter">
 					<li class="port-filter all active">
-						<a href="#">All</a>
+						<a href="#">Todos</a>
 					</li>
 					<li class="cat-item-1">
-						<a href="#" title="Category 1">Category 1</a>
+						<a href="#" title="Category 1">Categoria 1</a>
 					</li>
 					<li class="cat-item-2">
-						<a href="#" title="Category 2">Category 2</a>
+						<a href="#" title="Category 2">Categoria 2</a>
 					</li>
 					<li class="cat-item-3">
-						<a href="#" title="Category 3">Category 3</a>
+						<a href="#" title="Category 3">Categoria 3</a>
 					</li>
 					<li class="cat-item-4">
-						<a href="#" title="Category 4">Category 4</a>
+						<a href="#" title="Category 4">Categoria 4</a>
 					</li>
 				</ul>
 
@@ -353,8 +262,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							
 									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 1</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -369,8 +278,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								
 									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 2</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -385,8 +294,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							
 									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 3</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -401,8 +310,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								
 									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 4</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -417,8 +326,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								
 									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 5</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -433,8 +342,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								
 									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 6</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -449,8 +358,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							
 									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
 								      <div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 7</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							</a>
 						</span>
@@ -465,8 +374,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								
 									<img src="images/g8.jpg" class="img-responsive" alt="Conceit">
 										<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Proyecto N° 8</h5>
+											<p>Este proyecto se realizo por Aquí</p>
 										</div>
 							
 							</a>
@@ -483,117 +392,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 
-	<!--//projects-->
-	<!--/blog-->
-	<div class="blog_sec">
-		<h3 class="tittle-w3ls">Latest Blogs</h3>
-		<div class="col-md-6 banner-btm-left">
-			<div class="banner-btm-top">
-				<div class="banner-btm-inner a1">
-					<div class="blog_date">
-
-						<h4>Jan.05.2018</h4>
-
-					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
-					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
-				</div>
-				<div class="banner-btm-inner a2">
-
-				</div>
-			</div>
-			<div class="banner-btm-bottom">
-				<div class="banner-btm-inner a3">
-
-				</div>
-				<div class="banner-btm-inner a4">
-					<div class="blog_date">
-
-						<h4>Jan.08.2018</h4>
-
-					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
-					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-6 banner-btm-left">
-			<div class="banner-btm-top">
-				<div class="banner-btm-inner a1">
-					<div class="blog_date">
-
-						<h4>Jan.25.2018</h4>
-
-					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
-					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
-				</div>
-				<div class="banner-btm-inner a5">
-
-				</div>
-			</div>
-			<div class="banner-btm-bottom">
-				<div class="banner-btm-inner a6">
-
-				</div>
-				<div class="banner-btm-inner a4">
-					<div class="blog_date">
-
-						<h4>Jan.05.2018</h4>
-
-					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
-					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
-				</div>
-			</div>
-		</div>
-		<div class="clearfix"></div>
-	</div>
-
-	<!--//blog-->
-	<!--/bottom-->
-	<div class="banner_bottom">
-		<div class="container">
-			<h3 class="tittle-w3ls">Let’s Change How We Manage Business
-			</h3>
-			<div class="inner_sec_info_wthree_agile">
-				<div class="help_full">
-
-					<div class="col-md-6 banner_bottom_left">
-						<h4>Entrepreneurs Get Their Act Together </h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac. Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla
-							viverra pharetra sem, eget pulvinar neque pharetra ac.
-
-						</p>
-						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
-						</div>
-
-
-					</div>
-
-					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/banner_mid.jpg" alt=" " class="img-responsive">
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 	<!--//bottom-->
 	<!--/testimonials-->
 	<div class="tesimonials">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">Testimonials</h3>
+			<h3 class="tittle-w3ls cen">Integrantes</h3>
 			<div class="inner_sec">
 				<div class="test_grid_sec">
 					<div class="col-md-offset-2 col-md-8">
@@ -613,13 +417,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t1.jpg" class="img-responsive" alt="">
+												<img src="images/t2.jpg" class="img-responsive" alt="">
 
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Sara Lisbon</h6>
+												<p>Diseñador y programador y jefe de una propia empresa</p>
+												<h6>Fredy Max</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -632,9 +435,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<img src="images/t2.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Lorem ipsum dolor sit amet. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Jane Wearne</h6>
+												<p>Jefe de seguridad informaticas (HAKEKEKITO)</p>
+												<h6>Raúl Ezpinoza</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -644,12 +446,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t3.jpg" class="img-responsive" alt="">
+												<img src="images/t2.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Alice Williams</h6>
+												<p>Analista y seguridad de datos en Banco de la Nación</p>
+												<h6>Rossel Castillo</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -667,12 +468,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- /newsletter-->
 	<div class="newsletter_w3ls_agileits">
 		<div class="col-sm-6 newsleft">
-			<h3>Sign up for Newsletter !</h3>
+			<h3>Crear Usuario </h3>
 		</div>
 		<div class="col-sm-6 newsright">
 			<form action="#" method="post">
-				<input type="email" placeholder="Enter your email..." name="email" required="">
-				<input type="submit" value="Submit">
+				<input type="email" placeholder="Ingrese su usuario" name="email" required="">
+				<input type="submit" value="Enviar">
 			</form>
 		</div>
 
@@ -684,7 +485,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
-				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit </a></h2>
+				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i>Municipalidad</a></h2>
 				<p>Lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
@@ -725,20 +526,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li><a href="contact.html">Contact</a></li>
 						</ul>
 					</div>
-					<div class="col-md-3 sign-gd flickr-post">
-						<h4>Our <span>Works</span></h4>
-						<ul>
-							<li><a href="single.html"><img src="images/g1.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g3.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g5.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g6.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g7.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g8.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
-						</ul>
-					</div>
+					
 					<div class="col-md-5 sign-gd-two">
 						<h4>Contact <span>Information</span></h4>
 						<div class="address">
@@ -747,8 +535,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-phone" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Phone Number</h6>
-									<p>+1 234 567 8901</p>
+									<h6>Numero Telefonico</h6>
+									<p>+999 912 234144</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -758,7 +546,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 								<div class="address-right">
 									<h6>Email Address</h6>
-									<p>Email :<a href="mailto:example@email.com"> mail@example.com</a></p>
+									<p>Correo<a href="mailto:example@email.com"> grupoTrabajo@gmail.com</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -767,8 +555,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-map-marker" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Location</h6>
-									<p>Broome St, NY 10002,California, USA.
+									<h6>Localidad</h6>
+									<p>Distrio de Chilca - Huancayo
 
 									</p>
 								</div>
