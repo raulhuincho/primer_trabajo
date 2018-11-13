@@ -1,9 +1,3 @@
-<!--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
--->
 
 <!DOCTYPE html>
 <html>
@@ -463,7 +457,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//projects-->
 	<!--/blog-->
 	<div class="blog_sec">
-		<h3 class="tittle-w3ls">Latest Blogs</h3>
+		<h3 class="tittle-w3ls">Últimos Blogs</h3>
 		<div class="col-md-6 banner-btm-left">
 			<div class="banner-btm-top">
 				<div class="banner-btm-inner a1">
@@ -594,9 +588,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Sara Lisbon</h6>
+												<p>Ganancia o beneficio conseguido en una actividad comercial o de otro tipo</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -815,3 +807,4 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </body>
 
 </html>
+					
