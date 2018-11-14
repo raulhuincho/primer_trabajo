@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Conceit a Corporate Category Bootstrap Responsive Web Template | Home :: w3layouts</title>
+	<title>Inicio</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,8 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="web/index.html">Inicio</a></li>
-							<li><a href="about.html">Más</a></li>
+							<li><a href="nosotros">Nosotros</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contactos</a></li>
 							<li><a href="portfolio.html">Proyectos</a></li>
@@ -119,7 +118,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Chilca</a>
+								<a href="/" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -129,11 +128,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Parque de lo Heroes</h3>
+						<h3>Parque de los Héroes</h3>
 						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Chilca</a>
+								<a href="/" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -143,11 +142,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Parque abel Martinez</h3>
+						<h3>Parque Abel Martinez</h3>
 						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Chilca</a>
+								<a href="/" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -159,11 +158,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					<div class="carousel-caption">
 
-						<h3>Cuarte 9 de Diciembre</h3>
+						<h3>Cuartel 9 de Diciembre</h3>
 						<p>Estamos en usted en todo momento</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Chilca</a>
+								<a href="/" class="two scroll ">Chilca</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -187,29 +186,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//ab-->
 	<!--/what-->
 	<div class="works">
-		<div class="container">
-			<h3 class="tittle-w3ls cen">Dime lo que piensas</h3>
+		<div class="container-mod">
 			<div class="inner_sec_info_wthree_agile">
 				<div class="ser-first">
-					<div class="col-md-3 ser-first-grid text-center">
+					<div class="col-md-4 ser-first-grid text-center">
 						<span class="fa fa-shield" aria-hidden="true"></span>
 						<h3>Diseño Unico</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<p>El diseño de la pagina web fue  diseñado por Fredy estudiante de ls ISP</p>
 					</div>
-					<div class="col-md-3 ser-first-grid text-center">
+					<div class="col-md-4 ser-first-grid text-center">
 						<span class="fa fa-pencil" aria-hidden="true"></span>
 						<h3>Diferente posicion</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<p>Esta pagina tiene diferentes posicion de como se realizo y para el gusto de todos los usuarios</p>
 					</div>
-					<div class="col-md-3 ser-first-grid text-center">
-						<span class="fa fa-star" aria-hidden="true"></span>
-						<h3>Estilos de portafolio</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-					</div>
-					<div class="col-md-3 ser-first-grid text-center">
+					<div class="col-md-4 ser-first-grid text-center">
 						<span class="fa fa-thumbs-up" aria-hidden="true"></span>
 						<h3>Experiencia de Usuarios</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<p>Usted es testigo que la pagina web no es una simple es desarrollado por alto nivel</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -223,174 +216,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="banner_bottom_in">
 			<h3 class="tittle-w3ls we">Donde nosotros prevenimos y los servicios que ejercimos durante todo el tiempo</h3>
 
-			<p>Lorem ipsum dolor sit amet, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-				nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<p>La Municipalidad del Distrio de Chilca se encuentra ubicado a media cuadra del parque de los Heroes exactamente entre la Avenida 9 de Diciembre y Ovalo de Coto Coto.</p>
 			<img src="images/minu-Chilca.jpg" class="img-responsive" alt="">
 		</div>
 	</div>
 	<!--//banner_bottom-->
 	<!--/projects-->
-	<div class="banner_bottom proj">
-		<div class="wrap_view">
-			<h3 class="tittle-w3ls">Proyectos</h3>
-			<div class="inner_sec">
-				<ul class="portfolio-categ filter">
-					<li class="port-filter all active">
-						<a href="#">Todos</a>
-					</li>
-					<li class="cat-item-1">
-						<a href="#" title="Category 1">Categoria 1</a>
-					</li>
-					<li class="cat-item-2">
-						<a href="#" title="Category 2">Categoria 2</a>
-					</li>
-					<li class="cat-item-3">
-						<a href="#" title="Category 3">Categoria 3</a>
-					</li>
-					<li class="cat-item-4">
-						<a href="#" title="Category 4">Categoria 4</a>
-					</li>
-				</ul>
-
-
-				<ul class="portfolio-area">
-
-					<li class="portfolio-item2" data-id="id-0" data-type="cat-item-4">
-						<div>
-							<span class="image-block img-hover">
-							<a class="image-zoom" href="images/g1.jpg" rel="prettyPhoto[gallery]">
-							
-									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 1</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-1" data-type="cat-item-2">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g2.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
-								<div class="port-info">
-											<h5>Proyecto N° 2</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-2" data-type="cat-item-1">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g3.jpg" rel="prettyPhoto[gallery]">
-							
-									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
-								<div class="port-info">
-											<h5>Proyecto N° 3</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-3" data-type="cat-item-4">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g4.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 4</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g5.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 5</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g6.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 6</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g7.jpg" rel="prettyPhoto[gallery]">
-							
-									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
-								      <div class="port-info">
-											<h5>Proyecto N° 7</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-7" data-type="cat-item-1">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g8.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g8.jpg" class="img-responsive" alt="Conceit">
-										<div class="port-info">
-											<h5>Proyecto N° 8</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							
-							</a>
-						</span>
-						</div>
-					</li>
-
-					<div class="clearfix"></div>
-				</ul>
-				<!--end portfolio-area -->
-
-			</div>
-
-		</div>
-	</div>
 
 	
 	<!--//bottom-->
@@ -417,8 +248,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t2.jpg" class="img-responsive" alt="">
-
+												<img src="images/fredy.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>Diseñador y programador y jefe de una propia empresa</p>
@@ -432,7 +262,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t2.jpg" class="img-responsive" alt="">
+												<img src="images/raul.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>Jefe de seguridad informaticas (HAKEKEKITO)</p>
@@ -446,7 +276,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t2.jpg" class="img-responsive" alt="">
+												<img src="images/rossel.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>Analista y seguridad de datos en Banco de la Nación</p>

@@ -67,7 +67,7 @@ label {
 }
 
 .navbar-default {
-    background-color: #ffffff;
+    background-color: #34f540db;
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -109,11 +109,13 @@ label {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 0.75em;
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .navbar-default .navbar-nav>li>a {
     color: #27292b;
+    border: 2px solid transparent;
+
 }
 
 .dropdown-menu>li>a {
@@ -145,7 +147,7 @@ a.request {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #red;
     background-color: #ff3c41;
 }
 
@@ -174,35 +176,35 @@ span.desc {
 /*-- banner --*/
 
 .carousel .item {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner1.jpg) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner1.jpg) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner1.jpg) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner1.jpg) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/chilca.jpg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/chilca.jpg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/chilca.jpg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/chilca.jpg) no-repeat;
     background-size: cover;
 }
 
 .carousel .item.item2 {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner2.jpg) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner2.jpg) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner2.jpg) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner2.jpg) no-repeat;
-    background-size: cover;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-de-los-heroes.jpg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-de-los-heroes.jpg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-de-los-heroes.jpg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-de-los-heroes.jpg) no-repeat;
+    background-size: 100% 600px;
 }
 
 .carousel .item.item3 {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner3.jpg) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner3.jpg) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner3.jpg) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner3.jpg) no-repeat;
-    background-size: cover;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-abel-martinez.jpg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-abel-martinez.jpg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-abel-martinez.jpg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/parque-abel-martinez.jpg) no-repeat;
+    background-size: 100% 650px;
 }
 
 .carousel .item.item4 {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner4.jpg) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner4.jpg) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner4.jpg) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner4.jpg) no-repeat;
-    background-size: cover;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/cuartel-9-de-diciembre.jpg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/cuartel-9-de-diciembre.jpg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/cuartel-9-de-diciembre.jpg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/cuartel-9-de-diciembre.jpg) no-repeat;
+    background-size: 100% 700px;
 }
 
 .carousel-caption h2,
@@ -210,6 +212,8 @@ span.desc {
     font-size: 4em;
     font-weight: 700;
     letter-spacing: 2px;
+    color: green;
+    text-shadow: 5px 5px 5px #94e278eb;
 }
 
 .carousel-caption h2 span,
@@ -310,8 +314,8 @@ span.desc {
     width: 12px;
     height: 12px;
     margin: 0px 4px;
-    border: 2px solid #ff3c41;
-    background: #ff3c41;
+    border: 2px solid green;
+    background: #08f122ba;
 }
 
 /* Show it is fixed to the top */
@@ -335,7 +339,9 @@ span.desc {
     text-transform: uppercase;
     color: #fff;
     font-size: 0.75em;
+    font-weight: bold;
     display: inline-block;
+    background: rgba(52, 245, 64, 0.1);
 }
 
 a.act {
@@ -344,12 +350,13 @@ a.act {
 }
 
 .bnr-button a:hover {
-    border: solid 2px #ff3c41;
-    background-color: #ff3c41;
+    border: solid 2px rgba(52, 245, 64, 1);
+    background-color: rgba(52, 245, 64, 0.5);
 }
 
 a.two.scroll {
     margin-left: 10px;
+    width: 200%;
 }
 
 /*-- //banner --*/
@@ -424,6 +431,13 @@ p.sub_p {
 .banner_bottom_in img {
     background-color: #ebeeef;
     padding: 0.5em;
+    margin: auto;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color: white;
+    background-color: rgba(255, 255, 255, 0.35);
+    border: 2px solid white;
+
 }
 
 .banner_bottom_in p {
@@ -544,7 +558,7 @@ h3.tittle-w3ls {
 }
 
 h3.tittle-w3ls.cen {
-    color: #fff;
+    color: black;
     text-align: center;
 }
 
@@ -568,13 +582,13 @@ h3.tittle-w3ls.cen {
 }
 
 .ser-first-grid:hover span {
-    color: #76daff;
-    border: 2px solid #76daff;
+    color: #26e410;
+    border: 2px solid #26e410;
 }
 
 .ser-first-grid p {
     margin: 0;
-    color: #777;
+    color: #fdfdfd;
     font-size: 0.9em;
     line-height: 1.9em;
 }
@@ -589,7 +603,8 @@ h3.tittle-w3ls.cen {
 
 .works {
     padding: 7em 0;
-    background: #1d1c1c;
+    background: url('../images/logo-chilca.jpg');
+    background-size: 130% 485px;
 }
 
 /*-- /blog --*/
@@ -769,8 +784,8 @@ ol.carousel-indicators.two {
     width: 12px;
     height: 12px;
     margin: 0 2px;
-    background: #ee4f4f;
-    border: 1px solid #ee4f4f;
+    border: 2px solid green;
+    background: #08f122ba;
 }
 
 #quote-carousel img {
@@ -2069,3 +2084,10 @@ p.copy-right a:hover {
     }
 }
 /*--//responsive--*/
+@media (min-width: 1200px){
+    .container-mod {
+    width: 1170px;
+    background: rgba(0, 0, 0, 0.51);
+    margin: auto;
+    padding: 20px 0;
+}
