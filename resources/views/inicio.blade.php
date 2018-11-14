@@ -314,9 +314,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- footer -->
 	<div class="footer">
 		<div class="footer_inner_info_w3ls_agileits">
-			<div class="col-md-3 footer-left">
+			<div class="col-md-9-mod footer-left">
 				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i>Municipalidad</a></h2>
-				<p>Lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
+				<p>La Municipalidad del Distrio de Chilca se encuentra ubicado a media cuadra del parque de los Heroes exactamente entre la Avenida 9 de Diciembre y Ovalo de Coto Coto.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
 						<a href="#" class="facebook">
@@ -343,27 +343,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</li>
 				</ul>
-			</div>
-			<div class="col-md-9 footer-right">
+			</div><br><br>
+			<div class="col-md-9 footer-left" style="margin-left: 150px">
 				<div class="sign-grds">
-					<div class="col-md-4 sign-gd">
-						<h4>Latest <span>Info</span> </h4>
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="404.html">Services</a></li>
-							<li><a href="signin.html">Signin</a></li>
-							<li><a href="contact.html">Contact</a></li>
-						</ul>
-					</div>
-					
-					<div class="col-md-5 sign-gd-two">
+					<div class="col-md-9-mod sign-gd-two">
 						<h4>Contact <span>Information</span></h4>
 						<div class="address">
 							<div class="address-grid">
-								<div class="address-left">
-									<i class="fa fa-phone" aria-hidden="true"></i>
-								</div>
+
 								<div class="address-right">
 									<h6>Numero Telefonico</h6>
 									<p>+999 912 234144</p>
@@ -371,9 +358,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="clearfix"> </div>
 							</div>
 							<div class="address-grid">
-								<div class="address-left">
-									<i class="fa fa-envelope" aria-hidden="true"></i>
-								</div>
+								
 								<div class="address-right">
 									<h6>Email Address</h6>
 									<p>Correo<a href="mailto:example@email.com"> grupoTrabajo@gmail.com</a></p>
@@ -381,9 +366,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="clearfix"> </div>
 							</div>
 							<div class="address-grid">
-								<div class="address-left">
-									<i class="fa fa-map-marker" aria-hidden="true"></i>
-								</div>
+								
 								<div class="address-right">
 									<h6>Localidad</h6>
 									<p>Distrio de Chilca - Huancayo
@@ -399,7 +382,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 			<div class="clearfix"></div>
-			<p class="copy-right">&copy 2018 Conceit. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p class="copy-right">&copy 2018. Todos los derechos estan reservados | Diseñado por <a href="http://w3layouts.com/">Diseñadores DSI</a></p>
 		</div>
 	</div>
 	</div>

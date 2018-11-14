@@ -908,12 +908,12 @@ ol.carousel-indicators.two {
     margin: 0 0 0 -4px;
     font-weight: 600;
     letter-spacing: 1px;
-    background: #76daff;
+    background: rgba(52, 245, 64, 1);
     color: #fff;
 }
 
 .newsright input[type="submit"]:hover {
-    background: #080808;
+    background:  rgba(52, 245, 64, 0.7);;
     color: #ffffff;
 }
 
@@ -2090,4 +2090,13 @@ p.copy-right a:hover {
     background: rgba(0, 0, 0, 0.51);
     margin: auto;
     padding: 20px 0;
+}
+
+
+.col-md-9-mod {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
 }
