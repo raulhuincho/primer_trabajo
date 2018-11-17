@@ -223,22 +223,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	<!--//banner_bottom-->
 	<!--/projects-->
-<<<<<<< HEAD:resources/views/inicio.blade.php
-=======
-	<div class="banner_bottom proj">
-		<div class="wrap_view">
-<<<<<<< HEAD
-			<h3 class="tittle-w3ls">PRODUCTOS</h3>
-=======
 			<h3 class="tittle-w3ls">Proyectos</h3>
->>>>>>> b33a916231291f88e51d5c4306980299745991bf
 			<div class="inner_sec">
 				<ul class="portfolio-categ filter">
 					<li class="port-filter all active">
 						<a href="#">Todos</a>
 					</li>
 					<li class="cat-item-1">
-<<<<<<< HEAD
+
 						<a href="#" title="Category 1">CATEGORIA 1</a>
 					</li>
 					<li class="cat-item-2">
@@ -249,7 +241,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</li>
 					<li class="cat-item-4">
 						<a href="#" title="Category 4">CATEGORIA 4</a>
-=======
+
 						<a href="#" title="Category 1">Categoria 1</a>
 					</li>
 					<li class="cat-item-2">
@@ -260,7 +252,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</li>
 					<li class="cat-item-4">
 						<a href="#" title="Category 4">Categoria 4</a>
->>>>>>> b33a916231291f88e51d5c4306980299745991bf
+
 					</li>
 				</ul>
 
@@ -274,13 +266,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							
 									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-<<<<<<< HEAD
+
 											<h5>NUEVO PRODUCTO</h5>
 											<p>Add Some Description</p>
-=======
+
 											<h5>Proyecto N° 1</h5>
 											<p>Este proyecto se realizo por Aquí</p>
->>>>>>> b33a916231291f88e51d5c4306980299745991bf
+
 										</div>
 							</a>
 						</span>
@@ -408,7 +400,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 		</div>
 	</div>
->>>>>>> f9cb299bc8707013ff8199f48770344baef7129a:resources/views/welcome.blade.php
 
 	
 	<!--//bottom-->
