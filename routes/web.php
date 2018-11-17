@@ -22,3 +22,11 @@ Route::get('contacto', function () {
 Route::get('nosotros', function () {
     return view('nosotros');
 });
+
+Route::get('enviarRequisitos', function () {
+    return view('enviarRequisitos');
+});
+
+Route::get('portafolio', function () {
+    return view('portafolio');
+});

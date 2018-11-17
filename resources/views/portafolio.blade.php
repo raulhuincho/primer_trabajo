@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Inicio</title>
+	<title>Portafolio</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li><a href="portafolio">Portafolio</a></li>
+							<li><a href="/">Inicio</a></li>
 							<li><a href="nosotros">Nosotros</a></li>
 							<li><a href="contacto">Contactos</a></li>
 						</ul>
@@ -221,142 +221,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!--//banner_bottom-->
-	<!--/projects-->
-			<h3 class="tittle-w3ls">Proyectos</h3>
-			<div class="inner_sec">
-				<ul class="portfolio-categ filter">
-					<li class="port-filter all active">
-						<a href="#">Todos</a>
-					</li>
-					<li class="cat-item-1">
 
-						<a href="#" title="Category 1">CATEGORIA 1</a>
-					</li>
-					<li class="cat-item-2">
-						<a href="#" title="Category 2">CATEGORIA 2</a>
-					</li>
-					<li class="cat-item-3">
-						<a href="#" title="Category 3">CATEGORIA 3</a>
-					</li>
-					<li class="cat-item-4">
-						<a href="#" title="Category 4">CATEGORIA 4</a>
-					</li>
-					<li class="cat-item-3">
-						<a href="#" title="Category 3">CATEGORIA 6</a>
-					</li>
-					<li class="cat-item-4">
-						<a href="#" title="Category 4">CATEGORIA 6</a>
-					</li>
-				</ul>
-				<ul class="portfolio-area-mod">
-
-
-					<li class="portfolio-item2" data-id="id-1" data-type="cat-item-2">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g2.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
-								<div class="port-info">
-											<h5>Proyecto N° 1</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-2" data-type="cat-item-1">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g3.jpg" rel="prettyPhoto[gallery]">
-							
-									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
-								<div class="port-info">
-											<h5>Proyecto N° 2</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-3" data-type="cat-item-4">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g4.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 3</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g5.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 4</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g6.jpg" rel="prettyPhoto[gallery]">
-								
-									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
-									<div class="port-info">
-											<h5>Proyecto N° 5</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-
-					<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">
-						<div>
-							<span class="image-block">
-							<a class="image-zoom" href="images/g7.jpg" rel="prettyPhoto[gallery]">
-							
-									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
-								      <div class="port-info">
-											<h5>Proyecto N° 6</h5>
-											<p>Este proyecto se realizo por Aquí</p>
-										</div>
-							</a>
-						</span>
-						</div>
-					</li>
-
-					<div class="clearfix"></div>
-				</ul>
-				<!--end portfolio-area -->
-
-			</div>
-
-		</div>
-	</div>
-
-	
-	<!--//bottom-->
 	<!--/testimonials-->
 	<div class="tesimonials">
 		<div class="container">

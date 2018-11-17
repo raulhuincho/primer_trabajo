@@ -2100,3 +2100,10 @@ p.copy-right a:hover {
     padding-left: 15px;
     text-align: center;
 }
+
+.portfolio-area-mod li {
+    float: left;
+    margin: 0 12px 0px 0;
+    overflow: hidden;
+    width: 470px;
+}
