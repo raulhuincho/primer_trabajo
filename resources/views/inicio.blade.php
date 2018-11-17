@@ -59,6 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
+							<li><a href="/">Inicio</a></li>
 							<li><a href="nosotros">Nosotros</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contactos</a></li>
@@ -222,6 +223,192 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	<!--//banner_bottom-->
 	<!--/projects-->
+<<<<<<< HEAD:resources/views/inicio.blade.php
+=======
+	<div class="banner_bottom proj">
+		<div class="wrap_view">
+<<<<<<< HEAD
+			<h3 class="tittle-w3ls">PRODUCTOS</h3>
+=======
+			<h3 class="tittle-w3ls">Proyectos</h3>
+>>>>>>> b33a916231291f88e51d5c4306980299745991bf
+			<div class="inner_sec">
+				<ul class="portfolio-categ filter">
+					<li class="port-filter all active">
+						<a href="#">Todos</a>
+					</li>
+					<li class="cat-item-1">
+<<<<<<< HEAD
+						<a href="#" title="Category 1">CATEGORIA 1</a>
+					</li>
+					<li class="cat-item-2">
+						<a href="#" title="Category 2">CATEGORIA 2</a>
+					</li>
+					<li class="cat-item-3">
+						<a href="#" title="Category 3">CATEGORIA 3</a>
+					</li>
+					<li class="cat-item-4">
+						<a href="#" title="Category 4">CATEGORIA 4</a>
+=======
+						<a href="#" title="Category 1">Categoria 1</a>
+					</li>
+					<li class="cat-item-2">
+						<a href="#" title="Category 2">Categoria 2</a>
+					</li>
+					<li class="cat-item-3">
+						<a href="#" title="Category 3">Categoria 3</a>
+					</li>
+					<li class="cat-item-4">
+						<a href="#" title="Category 4">Categoria 4</a>
+>>>>>>> b33a916231291f88e51d5c4306980299745991bf
+					</li>
+				</ul>
+
+
+				<ul class="portfolio-area">
+
+					<li class="portfolio-item2" data-id="id-0" data-type="cat-item-4">
+						<div>
+							<span class="image-block img-hover">
+							<a class="image-zoom" href="images/g1.jpg" rel="prettyPhoto[gallery]">
+							
+									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
+									<div class="port-info">
+<<<<<<< HEAD
+											<h5>NUEVO PRODUCTO</h5>
+											<p>Add Some Description</p>
+=======
+											<h5>Proyecto N° 1</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+>>>>>>> b33a916231291f88e51d5c4306980299745991bf
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-1" data-type="cat-item-2">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g2.jpg" rel="prettyPhoto[gallery]">
+								
+									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
+								<div class="port-info">
+											<h5>Proyecto N° 2</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-2" data-type="cat-item-1">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g3.jpg" rel="prettyPhoto[gallery]">
+							
+									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
+								<div class="port-info">
+											<h5>Proyecto N° 3</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-3" data-type="cat-item-4">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g4.jpg" rel="prettyPhoto[gallery]">
+								
+									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
+									<div class="port-info">
+											<h5>Proyecto N° 4</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g5.jpg" rel="prettyPhoto[gallery]">
+								
+									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
+									<div class="port-info">
+											<h5>Proyecto N° 5</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g6.jpg" rel="prettyPhoto[gallery]">
+								
+									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
+									<div class="port-info">
+											<h5>Proyecto N° 6</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g7.jpg" rel="prettyPhoto[gallery]">
+							
+									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
+								      <div class="port-info">
+											<h5>Proyecto N° 7</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							</a>
+						</span>
+						</div>
+					</li>
+
+
+					<li class="portfolio-item2" data-id="id-7" data-type="cat-item-1">
+						<div>
+							<span class="image-block">
+							<a class="image-zoom" href="images/g8.jpg" rel="prettyPhoto[gallery]">
+								
+									<img src="images/g8.jpg" class="img-responsive" alt="Conceit">
+										<div class="port-info">
+											<h5>Proyecto N° 8</h5>
+											<p>Este proyecto se realizo por Aquí</p>
+										</div>
+							
+							</a>
+						</span>
+						</div>
+					</li>
+
+					<div class="clearfix"></div>
+				</ul>
+				<!--end portfolio-area -->
+
+			</div>
+
+		</div>
+	</div>
+>>>>>>> f9cb299bc8707013ff8199f48770344baef7129a:resources/views/welcome.blade.php
 
 	
 	<!--//bottom-->
