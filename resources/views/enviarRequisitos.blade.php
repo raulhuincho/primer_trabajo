@@ -47,7 +47,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <span class="icon-bar"></span>
           </button>
 			<div class="logo-w3layouts-agileits">
-					<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Municipalidad <span class="desc">Distrital de Chilca</span></a></h1>
+					<h1> <a class="navbar-brand" ><i class="fa fa-clone" aria-hidden="true"></i> Municipalidad <span class="desc">Distrital de Chilca</span></a></h1>
 				</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
